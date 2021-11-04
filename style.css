@@ -48,3 +48,9 @@
     cursor: pointer;
     
 }
+
+@media screen and (max-width:600px) {
+    .feedbackbox{
+        padding:20px 50px;
+    }    
+}
